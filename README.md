@@ -1,14 +1,16 @@
-# 🏗️ Deploy a Static App to Render
+# 🏗️ Deploy a Full-Stack App to Render
 
 Work with a partner to implement the following user story:
 
-* As a business owner, I want to deploy my static website so users can enjoy it.
+* As a business owner, I want to connect a database to my deployed web app so that users can save their game progress.
 
 ## Acceptance Criteria
 
 * It's done when the app is stored in a GitHub repository.
 
 * It's done when the app is deployed to Render and accessible from a URL.
+
+* It's done when the MongoDB Atlas database is created and connected to the Render app.
 
 ---
 
@@ -20,7 +22,7 @@ Work with a partner to implement the following user story:
 
 If you have completed this activity, review the following challenge with your partner:
 
-* How do we set up MongoDB Atlas for full-stack deployment?
+* How do we seed an Atlas database with starting data?
 
 Use [Google](https://www.google.com) or another search engine to research this.
 
